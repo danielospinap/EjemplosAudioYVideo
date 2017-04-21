@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrabarVideo.iml" filepath="$PROJECT_DIR$/GrabarVideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audioenservicio/audioenservicio.iml" filepath="$PROJECT_DIR$/audioenservicio/audioenservicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grabaraudio/grabaraudio.iml" filepath="$PROJECT_DIR$/grabaraudio/grabaraudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/grabarvideoappexistente/grabarvideoappexistente.iml" filepath="$PROJECT_DIR$/grabarvideoappexistente/grabarvideoappexistente.iml" />
     </modules>
   </component>
